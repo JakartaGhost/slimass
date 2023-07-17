@@ -47,13 +47,7 @@
 
 - [`klik gua tod`](https://jakartaghosts.blogspot.com/)
 
-## ```Thanks To```
 
-- [`Lihhxsec`]()
-- [`AmirXploit`]()
-- [`Stvn7`]()
-- [`Saexploit`]()
-- [`Owen77`]()
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width=50% height=50%>
@@ -71,3 +65,11 @@
     <img src="https://img.shields.io/github/forks/HardcodedCat/termux-monet?style=social"/>
   </a>
 </div>
+
+## ```Thanks To```
+
+- [`Lihhxsec`]()
+- [`AmirXploit`]()
+- [`Stvn7`]()
+- [`Saexploit`]()
+- [`Owen77`]()
