@@ -23,7 +23,6 @@
 <p>
 <img src="https://camo.githubusercontent.com/39930a193113861341d0afa9bd90d56d46e0ea709beb18610e9c8c5c352a90e5/68747470733a2f2f686f737465642e7765626c6174652e6f72672f776964676574732f7465726d75782d6d6f6e65742f2d2f6d756c74692d626c75652e737667" />
 </p>
-## ```Our Platform```
 <p align="center">
   <a href="https://instagram.com/t._.xshylh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="  "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -55,3 +54,20 @@
 - [`Stvn7`]()
 - [`Saexploit`]()
 - [`Owen77`]()
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg#gh-dark-mode-only" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_light.svg#gh-light-mode-only" width=50% height=50%>
+</p>
+
+<div align="center">
+  <a href="https://github.com/HardcodedCat/termux-monet/releases">
+    <img src="https://img.shields.io/github/downloads/HardcodedCat/termux-monet/total?color=brightgreen&label=Downloads"/>
+  </a>
+  <a href="https://github.com/HardcodedCat/termux-monet/releases">
+    <img src="https://badgen.net/github/assets-dl/HardcodedCat/termux-monet?label=Updates"/>
+  </a>
+  <a href="https://github.com/HardcodedCat/termux-monet/forks?activity_threshold=5y&include=active%2Carchived%2Cinactive&page=1&sort_by=last_updated">
+    <img src="https://img.shields.io/github/forks/HardcodedCat/termux-monet?style=social"/>
+  </a>
+</div>
